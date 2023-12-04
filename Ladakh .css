@@ -1,0 +1,171 @@
+.body-text {
+	font-family: "Trebuchet MS";
+	font-size: 12px;
+	color: #4F4F4F;
+	line-height: 18px;
+}
+.main-menu {
+	font-family: "Trebuchet MS";
+	font-size: 12px;
+	color: #6B6927;
+	font-weight: bold;
+}
+.copyrights {
+	font-family: Arial;
+	font-size: 10px;
+	color: #B5AD53;
+	background-repeat: no-repeat;
+	background-position: top;
+}
+.ancient-future {
+	font-family: Georgia;
+	font-size: 10px;
+	color: #999999;
+	padding-left: 40px;
+	font-style: italic;
+
+}
+
+.welcome-body-text {
+	font-family: Georgia;
+	font-size: 18px;
+	color: #a12830;
+	font-style: italic;
+}
+.welcome {
+	font-family: Georgia;
+	font-size: 16px;
+	color: #7D7557;
+	font-weight: bold;
+}
+
+
+.main-title {
+	font-family: Georgia;
+	font-size: 24px;
+	color: #999999;
+	text-transform: none;
+	font-style: italic;
+}
+.top {
+	font-family: Arial;
+	font-size: 9px;
+	color: #666666;
+}
+.Fixed-Departure {
+	font-family: Tahoma;
+	font-size: 12px;
+	font-weight: normal;
+	color: #898336;
+}
+.sub-title {
+	font-family: "Trebuchet MS";
+	font-size: 14px;
+	font-weight: normal;
+	color: #857B05;
+}
+.days {
+	font-family: Georgia;
+	font-size: 10px;
+	color: #999999;
+}
+.border {
+	border-top-color: #865B02;
+	border-right-color: #865B02;
+	border-bottom-color: #865B02;
+	border-left-color: #865B02;
+}
+.page-bg {
+	background-image: url(images/bg.jpg);
+	background-repeat: no-repeat;
+}
+.menu-testimonials {
+	font-family: Georgia;
+	font-size: 12px;
+	color: #CC3300;
+	padding-left: 90px;
+	font-style: italic;
+	font-weight: bold;
+}
+.menu-Trek-Packages {
+	font-family: Georgia;
+	font-size: 12px;
+	color: #CC3300;
+	font-style: italic;
+	font-weight: bold;
+}
+.menu-Explore-Ladakh {
+	font-family: Georgia;
+	font-size: 12px;
+	color: #CC3300;
+	padding-left: 100px;
+	font-style: italic;
+	font-weight: bold;
+}
+.menu-Custom-Program {
+	font-family: Georgia;
+	font-size: 12px;
+	color: #CC3300;
+	padding-left: 200px;
+	font-style: italic;
+	font-weight: bold;
+}
+.tele-number-big {
+	font-family: Georgia;
+	font-size: 18px;
+	font-style: italic;
+	color: #a12830;
+}
+.tele-number-small {
+	font-family: Georgia;
+	font-size: 12px;
+	font-style: italic;
+	color: #666666;
+}
+.tele-number-mail {
+	font-family: Georgia;
+	font-size: 14px;
+	color: #666666;
+}
+.blurb {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 10px;
+	font-style: italic;
+	color: #666666;
+}
+.footer-bg {
+	background-image: url(images/line.png);
+	background-repeat: no-repeat;
+}
+.sub-title {
+	font-family: "Trebuchet MS";
+	font-size: 16px;
+	color: #BFB857;
+	font-weight: bold;
+}
+.sub-title-1 {
+	font-family: Georgia;
+	font-size: 18px;
+	color: #7D7557;
+	font-weight: normal;
+}
+.sub-title-2 {
+	font-family: Georgia;
+	font-size: 14px;
+	color: #a12830;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.names {
+	font-family: Georgia;
+	font-size: 12px;
+	font-style: italic;
+	font-weight: bold;
+	color: #B74451;
+}
+.contact-button {
+	background-image: url(images/contact-us.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
